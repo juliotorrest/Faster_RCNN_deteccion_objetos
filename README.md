@@ -3,4 +3,4 @@ Intento re-escribir el ![ejemplo de RockyXu66](https://github.com/RockyXu66/Fast
 
 Si necesitas mas informacion sobre Faster RCNN existe mucha en linea, aqui esta el [articulo](https://ieeexplore.ieee.org/document/7485869) en el que se presenta esta red, y su ![implementacion](https://github.com/rbgirshick/py-faster-rcnn) original en Python.
 
-Lo primero que necesitamos realizar es la descarga del conjunto de datos y preprocesamiento de las imagenes que vamos a utilizar, como podemos ver ![aqui](/DataPreprocessing.ipynb).
+Pero bueno, manos a la obra! Lo primero que necesitamos realizar es la descarga del conjunto de datos y preprocesamiento de las imagenes que vamos a utilizar, como podemos ver ![aqui](/DataPreprocessing.ipynb).
