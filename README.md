@@ -5,4 +5,6 @@ Si necesitas mas informacion sobre Faster RCNN existe mucha en linea, aqui esta 
 
 Pero bueno, manos a la obra! Lo primero que necesitamos realizar es la descarga del conjunto de datos y preprocesamiento de las imagenes que vamos a utilizar, como podemos ver ![aqui](/DataPreprocessing.ipynb).
 
+Una vez que tenemos las imagenes separadas en conjuntos de entrenamiento y validacion, con las respectivas etiquetas (ubicacion y nombre de los recuadros), pasamos a implementar la red Faster RCNN y su entrenamiento.
+
 Apenas estoy empezando con este proyecto, asi que lo estare actualizando continuamente.
